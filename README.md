@@ -3,4 +3,4 @@ I used Power BI to create a dashboard for the management team at Pizza Runner. I
 
 You can find the case study for this visual here: [SQL Case Study Pizza Runner](https://github.com/mikes802/SQL-Case-Study-Pizza-Runner).
 
-![Pizza Runner Dashboard](/Pizza_Runner_Dashboard.png)
+![Pizza Runner Dashboard](/Pizza_Runner_Dashboard.jpg)
